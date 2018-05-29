@@ -1,5 +1,6 @@
 # SMACD
 if you use this code please cite us:
+
 @inproceedings{gujral2018smacd,
   title={SMACD: Semi-supervised Multi-Aspect Community Detection},
   author={Gujral, Ekta and Papalexakis, Evangelos E},
